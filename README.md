@@ -40,6 +40,6 @@ src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=
 <img alt="Profile Details" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 <img alt="Profile Details" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 <img alt="Profile Details" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
-<img alt="WetABQ's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=wetabq&layout=compact">
+<img alt="WetABQ's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=wetabq&layout=compact&theme=tokyonight">
 </p>
 </a>
