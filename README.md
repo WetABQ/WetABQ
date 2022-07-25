@@ -37,9 +37,9 @@ src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
 <p align="center">
-<img width="70%" alt="Profile Details" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
-<img width="35%" alt="Profile Details" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-<img width="35%" alt="Profile Details" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
-<img width="70%" alt="WetABQ's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=wetabq&layout=compact&theme=tokyonight">
+<img width="70%" alt="Profile Details" src="./profile-summary-card-output/github/0-profile-details.svg" />
+<img width="35%" alt="Profile Details" src="./profile-summary-card-output/github/2-most-commit-language.svg" />
+<img width="35%" alt="Profile Details" src="./profile-summary-card-output/github/3-stats.svg" />
+<img width="70%" alt="WetABQ's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=wetabq&layout=compact&theme=github">
 </p>
 </a>
